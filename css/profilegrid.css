@@ -54,64 +54,19 @@ nav a{
 }
 /*header*/
 header .row{
-    background-image: url("../../images/life.jpg");
+    background-image: url("../../images/frank-mckenna-252908.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
-    height: 450px;
-    
+    height: 450px;   
 }
-.life p{
-    margin-top: 200px;
-    
+.profile{
+    text-align: center;
     font-size: 50px;
-    text-align: center;
-    font-family: 'Artifika', serif;
-    letter-spacing: 5px;
+    letter-spacing: 20px;
+    font-family: 'Anton', sans-serif;
+    padding-top: 20px;
 }
-/*photosection*/
-.pic1 img{
-    width:100%;
-}
-.pic2 img{
-    width:100%;
-}
-.pic3 img{
-    width:100%;
-}
- .pscript{
-    text-align: center;   
-     font-size: 35px;
-     overflow: auto;
-}
-.pic1, .pic2, .pic3 :first-child{
-    text-align: center;
-}
-/*basketsection*/
-.bastitle h3{
-text-align: center;
-font-size: 20px;
-letter-spacing: 10px;
-}
-.bas1 :first-child{
-    text-align: center;
-}
-.bas1 img{
-    width:100%;
-}
-.bas2 :first-child{
-    text-align: center;
-}
-.bas2 img{
-    width:100%;
-}
-.bas3 :first-child{
-    text-align: center;
-}
-.bas3 img{
-    width:100%;
-}
-
 /*.container-fluid img{
     max-width: 100%;
     max-height: 600px;
@@ -139,8 +94,36 @@ letter-spacing: 10px;
    
     margin: 0 auto;
 }
-
-
+/*作者*/
+.authorleft{
+    margin:0 auto;
+    text-align: center;
+}
+.authorleft img{
+    padding: 20px;
+    border-radius: 50%;
+}
+.authorleft h3{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.authorleft p{
+    text-align: left;
+    padding: 10px;
+    line-height: 30px;
+    font-size: 20px;
+}
+.authorright{
+    
+    padding-left: 50px;
+    border-radius: 10px;
+   
+}
+.authorright h1{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
 /*footer*/
 footer .container-fluid{
     background-color: black;
