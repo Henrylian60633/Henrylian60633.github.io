@@ -39,11 +39,11 @@ header .row{
     padding-top: 100px;
     padding-left:200px;
 }
-.index h1{
+header h1{
     font-family: 'Libre Baskerville', serif;
     font-size: 50px;
 }
-.index p{
+header p{
     font-size: 30px;
 }
 header h1{
