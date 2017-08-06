@@ -35,7 +35,18 @@ header .row{
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
-    height: 450px;
+    height: 600px;
+    padding-top: 100px;
+    padding-left:200px;
+}
+header h1{
+font-family: 'Libre Baskerville', serif;
+font-size: 50px;
+
+}
+header p{
+    font-size: 30px;
+    
 }
 /*section*/
 section .row{
