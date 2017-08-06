@@ -55,7 +55,7 @@ nav a{
 /*header*/
 
 header .row{
-    background-image: url("../../images/Family.jpg");
+    background-image: url("../picture/Family.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
