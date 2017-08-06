@@ -87,10 +87,10 @@ footer a{
 .thumbnail img {
     max-width: 100%;
 }*/
-.container-fluid img{
+/*.container-fluid img{
     max-width: 100%;
     max-height: 600px;
-}
+}*/
 .row:after {
     content: "";
     display: block;
@@ -155,7 +155,7 @@ footer a{
     .col-xs-12 {
         width: calc(100% * 12 / 12);
     }
-}*/
+}
 
 @media screen and (min-width:768px) and (max-width:992px) {
     .container {
