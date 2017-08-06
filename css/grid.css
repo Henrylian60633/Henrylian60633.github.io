@@ -30,7 +30,7 @@ nav a{
     text-decoration: none;
 }
 /*header*/
-header .container-fluid{
+header .row{
     background-image: url("../picture/andrew-neel-128377.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -43,12 +43,12 @@ header .container-fluid{
     font-size: 50px;
     text-align: center;
 }
-/*.index p{
+.index p{
     font-size: 30px;
     color: white;
     text-align: center;
 
-}*/
+}
 
 /*section*/
 section .row{
