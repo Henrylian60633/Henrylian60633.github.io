@@ -55,6 +55,9 @@ section .row{
     background-color: yellow;
     
 }
+.about,.family,.life, h3{
+    text-align: center;
+}
 .about p{
     font-family: 'Inconsolata', monospace;
     font-size: 30px;
