@@ -115,9 +115,9 @@ footer a{
     display: block;
     clear: both;
 }
-.row{
+/*.row{
     border: 5px solid red;
-}
+}*/
 /*.clearfix{
     clear:right;
 }*/
@@ -126,7 +126,7 @@ footer a{
     float: left;
     width: 100%;
     padding: 15px;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
 
 .container ,.container-fluid{
