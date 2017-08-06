@@ -60,7 +60,7 @@ section .row{
     background-color: yellow;
     
 }
-.about,.family,.life {
+.about,.family,.life h3{
     font-family: 'Inconsolata', monospace;
 }
 .about,.family,.life p{
