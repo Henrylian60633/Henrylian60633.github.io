@@ -55,10 +55,10 @@ section .row{
     background-color: yellow;
     
 }
-.about,.family,.life h3{
+.about, .family , .life h3{
     font-family: 'Inconsolata', monospace;
 }
-.about,.family,.life p{
+.about, .family, .life p{
     font-size: 30px;
 }
 section a{
