@@ -42,7 +42,6 @@ header .row{
     font-family: 'Libre Baskerville', serif;
     font-size: 30px;
     text-align: center;
-    float: left;
     overflow: auto;
 }
 .index p{
