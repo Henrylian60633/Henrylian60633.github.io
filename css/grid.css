@@ -41,7 +41,7 @@ header .row{
 header .index{
     padding-top: 100px;
     padding-left:200px;
-    overflow: auto;
+
     float:left;
 }
 header h1{
