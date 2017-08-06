@@ -40,10 +40,16 @@ header .row{
 /*section*/
 section .row{
     background-color: yellow;
+    
 }
 .about,.family,.life {
     font-family: 'Inconsolata', monospace;
 }
+section a{
+    color:black;
+    text-decoration: none;
+}
+
 /*footer*/
 footer .container-fluid{
     background-color: black;
