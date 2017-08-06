@@ -30,7 +30,7 @@ nav a{
     text-decoration: none;
 }
 /*header*/
-header .row{
+header .container-fluid{
     background-image: url("../picture/andrew-neel-128377.jpg");
     background-repeat: no-repeat;
     background-position: center;
