@@ -38,16 +38,11 @@ header .row{
     height: 600px;
 
 }
-header .index{
-    padding-top: 100px;
-    padding-left:200px;
-
-    float:left;
-}
 .index h1{
     font-family: 'Libre Baskerville', serif;
     font-size: 50px;
-   
+       padding-top: 100px;
+    padding-left:200px;
 }
 .index p{
     font-size: 30px;
