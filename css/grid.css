@@ -29,6 +29,35 @@ nav a{
     color: white;
     text-decoration: none;
 }
+/*header*/
+header .row{
+    background-image: url("../picture/andrew-neel-128377.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 450px;
+}
+/*section*/
+section .row{
+    background-color: yellow;
+}
+.about,.family,.life {
+    font-family: 'Inconsolata', monospace;
+}
+/*footer*/
+footer .container-fluid{
+    background-color: black;
+    color:white;
+    
+}
+footer .subleft{
+    text-align: center;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
 /*.thumbnail{
     padding:5px;
     border:1px solid #ddd;
