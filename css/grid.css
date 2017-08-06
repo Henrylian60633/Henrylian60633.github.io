@@ -55,16 +55,23 @@ section .row{
     background-color: yellow;
     
 }
-.about,.family,.life, h3{
+
+.about h3{
     text-align: center;
 }
 .about p{
     font-family: 'Inconsolata', monospace;
     font-size: 30px;
 }
+.family h3{
+    text-align: center;
+}
 .family p{
     font-family: 'Inconsolata', monospace;
     font-size: 30px;
+}
+.life h3{
+    text-align: center;
 }
 .life p{
     font-family: 'Inconsolata', monospace;
