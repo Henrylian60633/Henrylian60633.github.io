@@ -36,12 +36,16 @@ header .row{
     background-position: center;
     background-size:cover;
     height: 600px;
+
+}
+header .index{
     padding-top: 100px;
     padding-left:200px;
 }
 header h1{
     font-family: 'Libre Baskerville', serif;
     font-size: 50px;
+   
 }
 header p{
     font-size: 30px;
