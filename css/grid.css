@@ -42,14 +42,13 @@ header .container-fluid{
     font-family: 'Libre Baskerville', serif;
     font-size: 50px;
     text-align: center;
-    overflow: auto;
 }
-.index p{
+/*.index p{
     font-size: 30px;
     color: white;
     text-align: center;
 
-}
+}*/
 
 /*section*/
 section .row{
