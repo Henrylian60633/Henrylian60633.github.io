@@ -128,10 +128,10 @@ section{
     border: 1px solid black;
     border-radius: 10px;
     line-height: 50px;
+    padding-left: 10px;
 }
 .authorright h3{
     letter-spacing: 10px;
-    padding-left: 10px;
 }
 .authorright li{
     font-family: 'Kanit', sans-serif;
