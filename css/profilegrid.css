@@ -117,6 +117,7 @@ section{
     padding: 10px;
     line-height: 30px;
     font-size: 20px;
+    border: 1px dotted black;
 }
 .authorright{
    
