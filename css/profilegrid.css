@@ -58,14 +58,14 @@ header .row{
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
-    height: 450px;   
+    height: 300px;   
 }
 .profile h1{
     text-align: center;
     font-weight: 20px;
     letter-spacing: 20px;
     font-family: 'Anton', sans-serif;
-    padding-top: 20px;
+    padding-top: 50px;
 }
 /*.container-fluid img{
     max-width: 100%;
@@ -117,7 +117,8 @@ header .row{
 .authorright{
    
     padding-left: 50px;
-    border-radius: 10px;
+     padding-right: 50px;
+   
 }
 .authorright article{
      background-color: #7DB9DE;
