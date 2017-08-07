@@ -53,11 +53,10 @@ header .row{
 /*section*/
 section .row{
     background-color: yellow;
+     border: 2px solid black;
     
 }
- .about,.family,.life{
-     border: 2px solid black;
- }
+
 .about h3{
     text-align: center;
 }
@@ -92,6 +91,9 @@ footer .container-fluid{
     
 }
 footer .subleft{
+    text-align: center;
+}
+footer .subright{
     text-align: center;
 }
 footer a{
