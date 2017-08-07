@@ -100,7 +100,8 @@ section{
 }
 .authorleft{
     margin:0 auto;
-    text-align: center;  
+    text-align: center;
+    padding: 100px;  
 }
 .authorleft img{
     padding: 20px;
