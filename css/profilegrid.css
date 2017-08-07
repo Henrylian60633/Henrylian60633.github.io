@@ -87,7 +87,7 @@ header .row{
     float: left;
     width: 100%;
     padding: 15px;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
 
 .container ,.container-fluid{
@@ -125,7 +125,7 @@ section{
 }
 .authorright article{
      background-color: #7DB9DE;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     border-radius: 10px;
     line-height: 50px;
     padding-left: 10px;
