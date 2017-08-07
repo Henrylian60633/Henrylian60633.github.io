@@ -131,6 +131,7 @@ section{
 }
 .authorright h3{
     letter-spacing: 10px;
+    padding-left: 10px;
 }
 .authorright li{
     font-family: 'Kanit', sans-serif;
