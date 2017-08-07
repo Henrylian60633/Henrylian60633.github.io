@@ -18,18 +18,22 @@ nav {
     top:0;
     left: 0;
     width: 100%;
+    text-align: center;
+}
+nav .link{
+    margin: 0 auto;
 }
 nav li{
-    float: left;   
+    /*float: left;   
     width: 150px;
-    height:20px;
+    height:20px;*/
     font-size: 20px;
     color: white;
     font-family: 'Fjalla One', sans-serif;
     
 }
 nav ul{
-    float:right;
+    /*float:right;*/
     list-style-type:none;
 }
 nav a{
