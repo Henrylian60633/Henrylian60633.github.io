@@ -95,9 +95,12 @@ header .row{
     margin: 0 auto;
 }
 /*作者*/
+section{
+      background-color: #BDC0Ba;
+}
 .authorleft{
     margin:0 auto;
-    text-align: center;
+    text-align: center;  
 }
 .authorleft img{
     padding: 20px;
