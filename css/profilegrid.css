@@ -53,7 +53,7 @@ nav a{
     text-decoration: none;
 }
 /*header*/
-header .container-fluid{
+header .row{
     background-image: url("../picture/frank-mckenna-252908.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -62,7 +62,7 @@ header .container-fluid{
 }
 .profile{
     text-align: center;
-    font-size: 50px;
+    font-weight: 20px;
     letter-spacing: 20px;
     font-family: 'Anton', sans-serif;
     padding-top: 20px;
@@ -115,10 +115,14 @@ header .container-fluid{
     font-size: 20px;
 }
 .authorright{
-    
+    background-color: #FCFAF2;
     padding-left: 50px;
     border-radius: 10px;
-   
+}
+.authorleft article{
+    background-color: #7DB9DE;
+    border: 1px solid black;
+    border-radius: 10px;
 }
 .authorright h1{
     text-align: center;
