@@ -94,19 +94,22 @@ letter-spacing: 10px;
 }
 .bas1 :first-child{
     text-align: center;
+    font-family: 'Anton', sans-serif;
 }
 .bas1 img{
     width:100%;
-    border:2px outset gray;
+    
 }
 .bas2 :first-child{
     text-align: center;
+    font-family: 'Anton', sans-serif;
 }
 .bas2 img{
     width:100%;
 }
 .bas3 :first-child{
     text-align: center;
+    font-family: 'Anton', sans-serif;
 }
 .bas3 img{
     width:100%;
