@@ -115,14 +115,21 @@ header .row{
     font-size: 20px;
 }
 .authorright{
-    background-color: #7DB9DE;
+   
     padding-left: 50px;
     border-radius: 10px;
 }
 .authorright article{
-    
+     background-color: #7DB9DE;
     border: 1px solid black;
     border-radius: 10px;
+    line-height: 5px;
+}
+
+.authorright li{
+    font-family: 'Kanit', sans-serif;
+    letter-spacing: 10px;
+    
 }
 .authorright h1{
     text-align: center;
