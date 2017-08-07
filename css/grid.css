@@ -55,7 +55,9 @@ section .row{
     background-color: yellow;
     
 }
-
+ .about,.family,.life{
+     border: 2px solid black;
+ }
 .about h3{
     text-align: center;
 }
