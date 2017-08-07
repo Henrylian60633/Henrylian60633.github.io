@@ -119,8 +119,8 @@ section{
 }
 .authorright{
    
-    padding-left: 50px;
-     padding-right: 50px;
+    padding-left: 30px;
+     padding-right: 30px;
    
 }
 .authorright article{
@@ -129,7 +129,9 @@ section{
     border-radius: 10px;
     line-height: 50px;
 }
-
+.authorright h3{
+    letter-spacing: 10px;
+}
 .authorright li{
     font-family: 'Kanit', sans-serif;
     letter-spacing: 10px;
