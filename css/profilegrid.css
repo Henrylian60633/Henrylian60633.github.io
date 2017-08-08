@@ -19,7 +19,7 @@ nav {
     left: 0;
     width: 100%;
 }
-nav li{
+/*nav li{
     float: left;   
     width: 200px;
     height:20px;
@@ -30,9 +30,10 @@ nav li{
 nav ul{
     float:right;
     list-style-type:none;
-}
+}*/
 nav a{
     color: white;
+    font-family: 'Fjalla One', sans-serif;
     text-decoration: none;
 }
 .Top {
