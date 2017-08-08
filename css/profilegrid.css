@@ -31,9 +31,14 @@ nav ul{
     float:right;
     list-style-type:none;
 }*/
+nav p{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Fjalla One', sans-serif;
+}
 nav a{
     color: white;
-    font-family: 'Fjalla One', sans-serif;
+    
     text-decoration: none;
 }
 .Top {
