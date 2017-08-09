@@ -160,7 +160,7 @@ letter-spacing: 10px;
     clear: both;
 }
 .row{
-    border: 5px solid red;
+    /*border: 5px solid red;*/
 }
 /*.clearfix{
     clear:right;
@@ -170,7 +170,7 @@ letter-spacing: 10px;
     float: left;
     width: 100%;
     padding: 15px;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
 
 .container ,.container-fluid{
