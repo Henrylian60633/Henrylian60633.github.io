@@ -104,10 +104,12 @@ header .row{
 text-align: center;
 font-size: 20px;
 letter-spacing: 10px;
+
 }
 .bas1 :first-child{
     text-align: center;
     font-family: 'Anton', sans-serif;
+    border: 2px solid black;
 }
 .bas1 img{
     width:100%;
@@ -116,6 +118,7 @@ letter-spacing: 10px;
 .bas2 :first-child{
     text-align: center;
     font-family: 'Anton', sans-serif;
+    border: 2px solid black;
 }
 .bas2 img{
     width:100%;
@@ -123,6 +126,7 @@ letter-spacing: 10px;
 .bas3 :first-child{
     text-align: center;
     font-family: 'Anton', sans-serif;
+    border: 2px solid black;
 }
 .bas3 img{
     width:100%;
