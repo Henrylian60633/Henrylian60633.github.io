@@ -8,7 +8,7 @@ html,body,nav {
 }
 body{
     padding-top:70px;
-    background-color: #FFFFBB; 
+    background-color: #FCFCD2; 
 }
 /*nav*/
 nav {
@@ -105,17 +105,17 @@ header .row{
 .pic1 :first-child{
     text-align: center;
     font-family: 'Alfa Slab One', cursive;
-    border-bottom-style: dashed;
+    border-bottom-style: solid;
 }
 .pic2 :first-child{
     text-align: center;
     font-family: 'Alfa Slab One', cursive;
-    border-bottom-style: dashed;  
+    border-bottom-style: solid; 
 }
-.pic3 :first{
+.pic3 :first-child{
     text-align: center;
     font-family: 'Alfa Slab One', cursive;
-    border-bottom-style: dashed; 
+    border-bottom-style: solid;
 }
 /*basketsection*/
 .bastitle h3{
