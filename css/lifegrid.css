@@ -85,13 +85,14 @@ header .row{
     width:100%;
 }
  .pscript{
-     margin-top: 10px;
+    margin-top: 30px;
     padding-top: 20px;
     text-align: center;   
      
 }
 .pscript h1{
     font-family: 'Sigmar One', cursive;
+    font-size: 35px;
 }
 .pscript p{
     font-family: 'Architects Daughter', cursive;
@@ -100,6 +101,7 @@ header .row{
 .pic1, .pic2, .pic3 :first-child{
     text-align: center;
     font-family: 'Alfa Slab One', cursive;
+    border-bottom-style: 2px dashed black;
 }
 /*basketsection*/
 .bastitle h3{
