@@ -108,7 +108,7 @@ section h3{
 
 /*section*/
 .fascript, .moscript, .siscript, .dogscript{
-     background-color: #FAD689;
+     background-color:#6EE2cb;
      padding: 10px;
      padding-left: 20px;
     border-radius: 10px;
@@ -116,6 +116,7 @@ section h3{
 }
 
 /*father*/
+
 .script1 img{
     width: 100%;
      border-radius: 10px;
@@ -140,7 +141,7 @@ section h3{
     border-radius: 10px;
 }
 .siscript p{
-    line-height: 50px;
+    line-height: 40px;
 }
 /*dog*/
 .script4 img{
