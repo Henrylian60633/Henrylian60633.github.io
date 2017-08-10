@@ -67,11 +67,10 @@ header .row{
 }
 .familyp p{
     text-align: center;
-     margin-top:100px;
+    margin-top:50px;
     font-size: 40px;
-    font-family: 'Great Vibes', cursive;
-    letter-spacing: 5px;
-    float: right;
+    font-family: 'Archivo', sans-serif;
+    
     
 }
 section h3{
