@@ -107,16 +107,15 @@ section h3{
 }
 
 /*section*/
-
+section .container{
+    background-color:#8AC6BA;
+}
 .Ftitle h3{
     background-color: #CEE1DC;
     border-top-style: solid;
     border-bottom-style: solid;
 }
 .fascript, .moscript, .siscript, .dogscript{
-    background-color:#6EE2cb;
-    padding: 10px;
-    padding-left: 20px;
     border-radius: 10px;
     margin-top:10px;
     text-align: center; 
