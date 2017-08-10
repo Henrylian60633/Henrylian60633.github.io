@@ -127,7 +127,7 @@ section h3{
 /*mother*/
 .script2 img{
     width: 100%;
-    height: 100%;   
+      
     border-radius: 10px;
 }
 .moscript p{
@@ -136,7 +136,7 @@ section h3{
 /*sister*/
 .script3 img{
     width: 100%;
-    height: 100%;
+    
     border-radius: 10px;
 }
 .siscript p{
@@ -145,7 +145,7 @@ section h3{
 /*dog*/
 .script4 img{
     width: 100%;
-    height: 100%;
+    
     border-radius: 10px;
 }
 .dogscript p{
