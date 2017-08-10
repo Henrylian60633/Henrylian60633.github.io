@@ -32,10 +32,9 @@ nav ul{
     list-style-type:none;
 }*/
 nav p{
-    /*text-align: center;*/
+    text-align: center;
     font-size: 20px;
-    /*font-family: 'Fjalla One', sans-serif;*/
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
 }
 nav a{
     color: white; 
