@@ -118,7 +118,7 @@ header .row{
     border-bottom-style: solid;
 }
 /*basketsection*/
-header .container-fluid{
+section .container-fluid{
     background-color: #E9E5Ce;
 }
 .bastitle {
