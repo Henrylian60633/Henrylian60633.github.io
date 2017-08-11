@@ -56,27 +56,31 @@ section .row{
      border: 2px solid black;
     
 }
-.more{
-    width: 100px;
+section .more{
+    width: 80px;
     height: 30px;
     text-align: center;
     border-radius: 10px;
     background-color: #2F9EC6;
 }
+
 #more1 a{
     text-decoration: none;
     color: white;
     text-align: center;
+    font-size: 20px;
 }
 #more2 a{
     text-decoration: none;
     color: white;
     text-align: center;
+    font-size: 20px;
 }
 #more3 a{
     text-decoration: none;
     color: white;
-     text-align: center;
+    text-align: center;
+    font-size: 20px;
 }
 
 .about h3{
