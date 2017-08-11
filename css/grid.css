@@ -56,47 +56,28 @@ section .row{
      border: 2px solid black;
     
 }
-.life .more{
+.about {
+    position: relative;
+}
+.family{
+    position: relative;
+}
+.life{
+    position: relative;
+}
+.more1{
+    position: absolute;
+    background-color: #2F9EC6;
     width: 80px;
     height: 30px;
-    text-align: center;
-    border-radius: 10px;
-    background-color: #2F9EC6;
-}
-.about .more{
-    width: 80px;
-    height: 30px;
-    text-align: center;
-    border-radius: 10px;
-    background-color: #2F9EC6;
-}
-.family .more{
-    width: 80px;
-    height: 30px;
-    text-align: center;
-    border-radius: 10px;
-    background-color: #2F9EC6;
-}
-
-#more1 a{
-    text-decoration: none;
-    color: white;
-    text-align: center;
     font-size: 20px;
+    bottom: 10px;
+    left: 100px; 
 }
-#more2 a{
-    text-decoration: none;
+.more1 a{
     color: white;
-    text-align: center;
-    font-size: 20px;
-}
-#more3 a{
     text-decoration: none;
-    color: white;
-    text-align: center;
-    font-size: 20px;
 }
-
 .about h3{
     text-align: center;
 }
