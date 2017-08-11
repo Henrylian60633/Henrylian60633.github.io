@@ -56,29 +56,7 @@ section .row{
      border: 2px solid black;
     
 }
-/*.about {
-    position: relative;
-}
-.family{
-    position: relative;
-}
-.life{
-    position: relative;
-}*/
-/*.more1{
-    position: absolute;
-    background-color: #2F9EC6;
-    width: 80px;
-    height: 30px;
-    font-size: 20px;
-    left: 100px;
-    border-radius: 10px;
-    text-align: center; 
-}
-.more1 a{
-    color: white;
-    text-decoration: none;
-}*/
+
 .more1{
     text-align: center;
     width:80px;
