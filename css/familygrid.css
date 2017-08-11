@@ -39,7 +39,9 @@ nav p{
 nav a{
     color: white; 
     text-decoration: none;
+    font-family: 'Fjalla One', sans-serif;
 }
+
 .Top {
     background-color: gainsboro;
     color:black;
