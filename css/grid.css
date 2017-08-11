@@ -56,7 +56,7 @@ section .row{
      border: 2px solid black;
     
 }
-section .more{
+.about, .family, .life .more{
     width: 80px;
     height: 30px;
     text-align: center;
