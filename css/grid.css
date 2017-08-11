@@ -56,7 +56,7 @@ section .row{
      border: 2px solid black;
     
 }
-.about {
+/*.about {
     position: relative;
 }
 .family{
@@ -64,8 +64,8 @@ section .row{
 }
 .life{
     position: relative;
-}
-.more1{
+}*/
+/*.more1{
     position: absolute;
     background-color: #2F9EC6;
     width: 80px;
@@ -78,6 +78,45 @@ section .row{
 .more1 a{
     color: white;
     text-decoration: none;
+}*/
+.more1{
+    text-align: center;
+    width:80px;
+    height: 30px;
+    background-color: #2F9EC6;
+    border-radius: 10px;
+    margin:0 auto;
+}
+.more1 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.more2{
+    text-align: center;
+    width:80px;
+    height: 30px;
+    background-color: #2F9EC6;
+    border-radius: 10px;
+    margin:0 auto;
+}
+.more2 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.more3{
+    text-align: center;
+    width:80px;
+    height: 30px;
+    background-color: #2F9EC6;
+    border-radius: 10px;
+    margin:0 auto;
+}
+.more3 a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
 }
 .about h3{
     text-align: center;
