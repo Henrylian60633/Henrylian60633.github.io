@@ -58,15 +58,24 @@ section .row{
 }
 .more{
     width: 100px;
-    height: 50px;
+    height: 30px;
     text-align: center;
     border-radius: 10px;
     background-color: #2F9EC6;
 }
-#more1, #more2, #more3 a{
+#more1 a{
     text-decoration: none;
     color: white;
 }
+#more2 a{
+    text-decoration: none;
+    color: white;
+}
+#more3 a{
+    text-decoration: none;
+    color: white;
+}
+
 .about h3{
     text-align: center;
 }
