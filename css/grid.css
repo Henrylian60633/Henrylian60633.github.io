@@ -56,7 +56,21 @@ section .row{
      border: 2px solid black;
     
 }
-.about, .family, .life .more{
+.life .more{
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #2F9EC6;
+}
+.about .more{
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #2F9EC6;
+}
+.family .more{
     width: 80px;
     height: 30px;
     text-align: center;
